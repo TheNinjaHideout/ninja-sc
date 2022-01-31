@@ -2,6 +2,7 @@
 
 pragma solidity ^0.8.0;
 
+// IWoolf.sol source file
 interface IAssassin {
 
   // struct to store each token's traits
